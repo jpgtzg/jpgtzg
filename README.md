@@ -138,7 +138,6 @@ I am a high school student at Tecnológico de Monterrey. I really like to innova
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndromedaHelix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
