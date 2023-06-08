@@ -145,6 +145,4 @@ I am a high school student at Tecnológico de Monterrey. I really like to innova
   <img src="https://streak-stats.demolab.com?user=AndromedaHelix&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###ix&count_private=true&theme=synthwave&showicons=true" alt="AndromedaHelix's GitHub stats" /></a>
-
 <a href="http://www.github.com/AndromedaHelix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndromedaHelix&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
