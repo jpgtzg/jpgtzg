@@ -1,9 +1,8 @@
+[![lake-forest-trees-1051560-1920x1080.jpg](https://i.postimg.cc/BbSK1y0C/lake-forest-trees-1051560-1920x1080.jpg)](https://postimg.cc/G8f2WX9B)
 <h1 align="center">Hi, I'm Juan Pablo Gutierrez</h1>
 <h3 align="center">Software developer & robotics enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andromedahelix&label=Profile%20views&color=0e75b6&style=flat" alt="andromedahelix" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andromedahelix" alt="andromedahelix" /></a> </p>
 
 I am a high school student at Tecnológico de Monterrey. I really like to innovate and develop new projects and ideas that can contribute to the world. Through my experience at FIRST, I have acquired a lot of first-hand robotics experience that has helped me develop my projects. 
 
