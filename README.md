@@ -1,4 +1,5 @@
-[![lake-forest-trees-1051560-1920x1080.jpg](https://i.postimg.cc/BbSK1y0C/lake-forest-trees-1051560-1920x1080.jpg)](https://postimg.cc/G8f2WX9B)
+[![lake-forest-trees-1051560-2560x1024.jpg](https://i.postimg.cc/tC0gfwfv/lake-forest-trees-1051560-2560x1024.jpg)](https://postimg.cc/rzJcRnq5)
+
 <h1 align="center">Hi, I'm Juan Pablo Gutierrez</h1>
 <h3 align="center">Software developer & robotics enthusiast</h3>
 
