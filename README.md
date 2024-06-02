@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andromedahelix&label=Profile%20views&color=0e75b6&style=flat" alt="andromedahelix" /> </p>
 
-I am a high school student at Tecnológico de Monterrey. I really like to innovate and develop new projects and ideas that can contribute to the world. Through my experience at FIRST, I have acquired a lot of first-hand robotics experience that has helped me develop my projects. 
+As a technology enthusiast since a young age, I have been captivated by the world of software development and its application in robotics. My passion lies in contributing to the advancement of new ideas through innovation and executing projects of my own. Currently, my main focus is on leveraging robotic vision to develop algorithms that dynamically adapt to the environment and improvise as necessary. I consider myself a dedicated and hardworking individual, committed to achieving my goals in the field of technology.
 
 - 🔭 I’m currently working on [Dalia](https://github.com/AndromedaHelix/Dalia)
 
