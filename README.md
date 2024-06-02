@@ -1,7 +1,7 @@
 [![lake-forest-trees-1051560-2560x1024.jpg](https://i.postimg.cc/tC0gfwfv/lake-forest-trees-1051560-2560x1024.jpg)](https://postimg.cc/rzJcRnq5)
 
 <h1 align="center">Hi, I'm Juan Pablo Gutierrez</h1>
-<h3 align="center">Software developer & robotics enthusiast</h3>
+<h3 align="center">Full Stack software developer & Robotic Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andromedahelix&label=Profile%20views&color=0e75b6&style=flat" alt="andromedahelix" /> </p>
 
