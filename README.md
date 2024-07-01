@@ -13,6 +13,26 @@
         <img src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true"/>
 </div>
 
+```javascript
+const jpgtzg = {
+    pronouns: "He" | "Him",
+    code: ["Rust", "Java", "Dart", "Python", "C", "C++", "C#"],
+    askMeAbout: ["robotics", "tech", "app dev", "software", "music"],
+    technologies: {
+        backEnd: {
+            js: ["NextJS", "Vercel", "Tailwind"],
+        },
+        mobileApp: {
+            multiplatform: ["Flutter development"]
+            native: ["IOS Development"] 
+        },
+        databases: ["mongo", "SQL", "Firebase"],
+    },
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
   As a technology enthusiast since a young age, I have been captivated by the world of software development and its application in robotics. My passion lies in contributing to the advancement of new ideas through innovation and executing projects of my own. Currently, my main focus is on leveraging robotic vision to develop algorithms that dynamically adapt to the environment and improvise as necessary. I consider myself a dedicated and hardworking individual, committed to achieving my goals in the field of technology.
 
 <h3 align="left">Connect with me:</h3>
