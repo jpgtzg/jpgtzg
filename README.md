@@ -10,7 +10,11 @@ const jpgtzg = {
     askMeAbout: ["robotics", "tech", "app dev", "software", "music"],
     technologies: {
         backEnd: {
-            js: ["NextJS", "Vercel", "Tailwind"],
+            js: ["NextJS", "Vercel",],
+        },
+        robotics: {
+            os: ["ros2", "microROS"]
+            libraries: ["WPILib"]
         },
         mobileApp: {
             multiplatform: ["Flutter development"]
@@ -18,6 +22,7 @@ const jpgtzg = {
         },
         databases: ["mongo", "SQL", "Firebase"],
     },
+    organizations: ["VOLTEC667", "WPILib", "Hack Club"],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
