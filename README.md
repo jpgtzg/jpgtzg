@@ -7,14 +7,6 @@
 
 As a technology enthusiast since a young age, I have been captivated by the world of software development and its application in robotics. My passion lies in contributing to the advancement of new ideas through innovation and executing projects of my own. Currently, my main focus is on leveraging robotic vision to develop algorithms that dynamically adapt to the environment and improvise as necessary. I consider myself a dedicated and hardworking individual, committed to achieving my goals in the field of technology.
 
-- 🔭 I’m currently working on [Dalia](https://github.com/AndromedaHelix/Dalia)
-
-- 👯 I developed an open source FRC library called [AndromedaLib](https://github.com/AndromedaHelix/AndromedaLib)
-
-- 🤝 I’ve developed 2023 FRC season robot code at [VOLTEC 2023](https://github.com/AndromedaHelix/2023-Scouting6647)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AndromedaHelix](https://github.com/AndromedaHelix)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan-pablo-gutiérrez-garcía-68609023b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-pablo-gutiérrez-garcía-68609023b" height="30" width="40" /></a>
