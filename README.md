@@ -8,7 +8,7 @@ const jpgtzg = {
     pronouns: "He" | "Him",
     role: "Full Stack Software Engineer and Robotics Engineer",
     career: "Robotics Engineering",
-    code: ["Rust", "Java", "Dart", "Python", "C", "C++", "C#"],
+    code: ["Rust", "Java", "Dart", "Python", "C", "C++", "C#", "Bash"],
     askMeAbout: ["robotics", "tech", "app dev", "software", "music"],
     technologies: {
         backEnd: {
