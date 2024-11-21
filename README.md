@@ -6,9 +6,9 @@
 const jpgtzg = {
     name: "Juan Pablo Gutiérrez"
     pronouns: "He" | "Him",
-    role: "Full Stack Software Engineer and Robotics Engineer",
+    role: "Autonomous Vehicle Researcher | Robotics Engineer | Software Developer @fuzzyflags | Innovating at the     intersection of technology and creativity.",
     career: "Robotics Engineering",
-    code: ["Rust", "Java", "Dart", "Python", "C", "C++", "C#", "Bash"],
+    code: ["Rust", "Java", "Dart", "Python", "C", "C++", "C#", "Bash, JavaScript"],
     askMeAbout: ["robotics", "tech", "app dev", "software", "music"],
     technologies: {
         backEnd: {
@@ -22,10 +22,10 @@ const jpgtzg = {
             multiplatform: ["Flutter development"]
             native: ["IOS Development"] 
         },
-        databases: ["mongo", "SQL", "Firebase"],
+        databases: ["mongo", "SQL", "Firebase, Supabase, SQLite"],
     },
-    organizations: ["VOLTEC667", "WPILib", "Hack Club"],
-    currentFocus: "No Focus point at this time",
+    organizations: ["VOLTEC667", "WPILib", "Hack Club, FuzzyFlags, AsteriaLabs"],
+    currentFocus: "Innovating through creation",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
